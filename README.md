@@ -6,7 +6,7 @@
 [![version](https://img.shields.io/badge/Version-1.0-red.svg)]()
 
 
-Welcome to the "X-tended editor". This is a super lightweight plugin for the [X Pro Wordpress Theme](https://theme.co/) by Themeco, which provides an better texteditor for the cornerstone content builder.
+Welcome to the "X-tended editor". This is a super lightweight plugin for the [X and Pro Wordpress Theme](https://theme.co/) by Themeco, which provides an better texteditor for the cornerstone content builder.
 
 This plugin is for all people who don't like the new textarea of cornerstone, since the Theme-update to version 1.2. This plugin expands the text area and add it to the bottom of the preview, similar to the chrome developer tools.
 You can still switch between the plain code editor and the html editor. 
