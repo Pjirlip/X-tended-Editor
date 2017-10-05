@@ -14,8 +14,8 @@ You can still switch between the plain code and the html editor.
 
 ### Preview
 
-![screen1](/assets/prewiev.png)
-![screen1](/assets/prewiev2.png)
+![screen1](/assets/preview.png)
+![screen1](/assets/preview2.png)
 
 
 This plugin is licensed under MIT. My plugin is not an official solution and I am not involved in any way with Themeco. Use at your own risk.
